@@ -1,3 +1,4 @@
 # BFS-Java
 
-Basic Breadthfirst search implementation
+Basic Breadth-first search implementation
+
